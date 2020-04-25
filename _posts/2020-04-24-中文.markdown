@@ -11,4 +11,4 @@ tags: [Holidays, Hawaii]
 
 照片
 
-![zhongling20200424](E:\net\shulangzhongling.github.io\assets\img\zhongling20200424.jpg)
+![zhongling20200424]({{site.baseurl}}\assets\img\zhongling20200424.jpg)
